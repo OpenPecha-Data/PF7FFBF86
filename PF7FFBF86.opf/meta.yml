@@ -1,0 +1,21 @@
+id: PF7FFBF86
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,00: Vinayavastūddāna'
+  language: bo
+  volumes:
+    2156a8983e1e4b31bc220b04f4225856:
+      title: Introductory verses
+      base_file: Introductory verses.txt
+      work_id: WE9A415A5
+    903e5488b6dc4209a70164377a79ea02:
+      title: Piṇḍoddāna
+      base_file: Piṇḍoddāna.txt
+      work_id: WD9C7B70F
+    ae66a2504209418799c0a71a0a9e9ef6:
+      title: Title
+      base_file: Title.txt
+      work_id: W2F18AD5B
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:08:46.111766'
+last_modified_at: '2022-03-01T22:08:46.111772'

@@ -1,0 +1,22 @@
+id: 8edf09b4d2d945a5adec9a53f376e5b7
+annotation_type: index
+revision: '00001'
+annotations:
+  b4b840cc8fdf4ae684e3e99a863b6812:
+    work_id: WE9A415A5
+    span:
+      vol: Introductory verses
+      start: 0
+      end: 21
+  2288ef70e88b4e3e80f3ee760880235f:
+    work_id: WD9C7B70F
+    span:
+      vol: Piṇḍoddāna
+      start: 0
+      end: 12
+  b2082751d04b43e9bfa49d25ffeef619:
+    work_id: W2F18AD5B
+    span:
+      vol: Title
+      start: 0
+      end: 13
